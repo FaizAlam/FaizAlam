@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Faiz Alam 👋 </h1>
 <h3 align="center">🚀 Web developer 🚀</h3>
 
-<p align="left"> [<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<p align="left"> <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=FaizAlam"> </p>
 
 - 🔭 I’m currently working on Web Apps
