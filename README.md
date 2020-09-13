@@ -1,14 +1,13 @@
-<h1 align="center"> Hello, I'm Faiz Faiz 👋 </h1>
+<h1 align="center"> Hello, I'm Faiz Alam 👋 </h1>
 <h3 align="center">🚀 Web developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
 
-- 🔭 I’m currently working with Web Apps
+- 🔭 I’m currently working on Web Apps
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Web Dev projects
 - 💬 Ask me about Web dev related Stuff
-- 📫 How to reach me:[
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdfaizalam53@gmail.com)](mailto:dubey.mohdfaizalam53@gmail.com)
+- 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdfaizalam53@gmail.com)](mailto:dubey.mohdfaizalam53@gmail.com)
 
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
