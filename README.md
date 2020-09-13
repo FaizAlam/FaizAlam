@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Faiz Alam 👋 </h1>
 <h3 align="center">🚀 Web developer 🚀</h3>
 
-<p align="left"> ![](https://komarev.com/ghpvc/?username=FaizAlam&color=red) </p>
+<p align="left"> [](https://komarev.com/ghpvc/?username=FaizAlam&color=red) </p>
 
 - 🔭 I’m currently working on Web Apps
 - 🌱 I’m currently learning ReactJs
