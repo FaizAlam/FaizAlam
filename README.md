@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Web developer 🚀</h3>
 
 <p align="left"> <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=FaizAlam"> </p>
+    <img src="https://komarev.com/ghpvc/?username=FaizAlam"></a> </p>
 
 - 🔭 I’m currently working on Web Apps
 - 🌱 I’m currently learning ReactJs
