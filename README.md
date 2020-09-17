@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Faiz Alam 👋 </h1>
+<h1 align="center"> Hello, I'm Faiz 👋 </h1>
 <h3 align="center">🚀 Web developer 🚀</h3>
 
 <p align="left"> <a href="https://github.com/antonkomarev/github-profile-views-counter">
