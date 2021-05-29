@@ -4,8 +4,8 @@
 <p align="left"> <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=FaizAlam"></a> </p>
 
-- 🔭 I’m currently working on Web Apps
-- 🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working on Python 
+- 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on Web Dev projects
 - 💬 Ask me about Web dev, Web Security, Database, WordPress, Graphic Designing related Stuff
 - 📫 How to reach me:[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohdfaizalam53@gmail.com)](mailto:mohdfaizalam53@gmail.com)
