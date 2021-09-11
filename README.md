@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Faiz 👋 </h1>
-<h3 align="center">🚀 Web developer 🚀</h3>
+<h3 align="center">🚀 Learner 🚀</h3>
 
 <p align="left"> <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=FaizAlam"></a> </p>
